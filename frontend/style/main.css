@@ -1,0 +1,327 @@
+/* Header */
+.navbar-brand {
+    font-family: 'poppins';
+    font-weight: 800;
+    font-size: 18px;
+    
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+    background-color: #84CB7E!important;
+}
+
+.nav-item {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #139018 !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: #139018 !important
+}
+/* Tutup Header */
+
+/* Hero Section */
+.hero-section {
+    margin-top: 104px;
+}
+
+
+.hero-section h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #1E683C !important;
+}
+
+.hero-section p {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 64px;
+}
+
+.hero-section .btn-cta {
+   margin-top: 64px;
+   margin-left: 104px;
+}
+
+.hero-section .btn {
+    background-color: #4fa348;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+.menu {
+    position: absolute;
+    bottom: 190px;
+    left: 190px;
+    border-radius: 10px;
+    background-color: #4FA348 !important;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.img-package-menu {
+    position: absolute;
+    left: 80px;
+}
+
+/* Akhir Hero Section */
+
+.section-title {
+    border-bottom: 3px solid #FCBB3A;
+    width: 8%;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+/* Package Menu */
+.categories-thumbnail {
+    width: 100%;
+}
+
+.Package-menu-item {
+    margin-left: 110px;
+}
+
+.judul-price h5 {
+    border-bottom: 2px solid #4FA348;
+    color: #139018;
+    font-size: 40px;
+    font-weight: 1000px;
+}
+
+.caption-price p {
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.price-list-section{
+    text-align: center;
+    left: 1000px;
+}
+/* Tutup Package Menu */
+
+/* Popular Products */
+.popular-products {
+    padding-top: 50px;
+    padding-bottom: 36px;
+    background: rgba(23, 25, 56, 0.06);
+}
+
+.component-products {
+    margin-top: 50px;
+    margin-bottom: 36px;
+    background: #ffffff;
+    border-radius: 8px;
+    border: #000000;
+    padding-bottom: 15px;
+
+    transition: all 0,2s ease-in-out;
+
+}
+
+.component-products:hover {
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+.products-img {
+    padding: 0.5rem;
+    border-radius: 8px 8px;
+    background: #f6FAFD;
+
+    transition: all 0.3s ease;
+}
+
+.products-text {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #171938;
+
+}
+
+.products-price {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+
+    color: #E98015;  
+}
+/* Tutup Popular Products */
+
+/* Testimonial */
+.testimonial {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    text-align: center;
+}
+
+.testimonial-img {
+    z-index: 1;
+    position: absolute;
+    margin: 30px 0px 0px 30px;
+}
+
+.testimonial-frame {
+    width: 365px;
+    height: 500px;
+}
+
+.testimoni-text h6 {
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+}
+
+.paragraf-testimoni {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.testimonial-text {
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #152C5B;
+}
+
+.testimonial-name {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+
+
+    
+
+    color: #B0B0B0;
+}
+
+.btn-testimonial {
+    background: #FCBB3A;
+    
+    width: 150px;
+    height: 38px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 170%;
+
+
+    text-align: center;
+
+    color: #030303;
+
+    transition: all 0.3s ease;
+   
+}
+
+.btn-testimonial:hover {
+    box-shadow: 0px 8px 15px rgba(50, 44, 91, 0.22);
+    border-radius: 4px;
+    
+    transform: scale(1.1);
+}
+/* Tutup Testimonial */
+
+/* Footer */
+.footer {
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #84CB7E;
+}
+
+.footer h2 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 36px;
+    text-transform: uppercase;
+
+    color: #139018;
+}
+
+.footer h5 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 24px;
+
+    color: #4fa348;
+}
+
+.footer p {
+    font-family: 'poppins';
+    font-weight: 600;
+    font-size: 20px;
+
+    color: #139018;
+}
+
+.footer-small {
+    background-color: #4fa348;
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: 'poppins';
+    font-weight: 753;
+    font-size: 24px;
+
+    margin-top: 30px;
+
+    color: #ffffff;
+}
+
+.footer-small a {
+    font-weight: 753;
+    font-size: 24px;
+    text-decoration: none;
+
+    color: #FCBB3A;
+}
+/* Tutup Footer */
